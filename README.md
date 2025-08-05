@@ -1,2 +1,2 @@
 # Shaikat-Demo
-this i8s my first repo 
+this is my first repo 
